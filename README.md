@@ -1,4 +1,4 @@
-# RPA
+# Checklist para escolha de ferramenta de RPA
 Planilha com checklist que pode auxiliar no processo de escolha de uma ferramenta de Robotic Process Automation (RPA) para sua organização.
 
 ## 1. Introdução
